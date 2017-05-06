@@ -1,5 +1,5 @@
 ---
-layout: postmwa
+layout: post
 title: CS373 Final Week
 ---
 
